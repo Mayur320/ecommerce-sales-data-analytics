@@ -1,0 +1,253 @@
+Order_ID,Order_Date,Region,Category,Customer_Segment,Payment_Method,Units_Sold,Unit_Price,Discount,Sales,Profit
+ORD1001,2025-01-01,East,Books,Corporate,Credit Card,1,33.9,0.0,33.9,6.12
+ORD1002,2025-01-02,Central,Sports,Corporate,Cash on Delivery,4,108.16,0.0,432.65,86.13
+ORD1003,2025-01-03,Central,Home & Kitchen,Corporate,Credit Card,6,153.96,0.0,923.77,86.29
+ORD1004,2025-01-05,North,Sports,Small Business,Credit Card,4,118.54,0.05,474.17,100.76
+ORD1005,2025-01-06,North,Sports,Corporate,Debit Card,6,109.64,0.0,657.85,80.24
+ORD1006,2025-01-08,East,Clothing,Corporate,Debit Card,3,69.87,0.0,209.6,54.41
+ORD1007,2025-01-09,West,Home & Kitchen,Small Business,Cash on Delivery,6,124.76,0.0,748.58,90.6
+ORD1008,2025-01-11,South,Home & Kitchen,Consumer,Debit Card,1,163.36,0.1,163.36,13.58
+ORD1009,2025-01-12,North,Home & Kitchen,Small Business,Debit Card,3,121.79,0.05,365.37,25.51
+ORD1010,2025-01-14,Central,Sports,Consumer,Cash on Delivery,1,106.36,0.05,106.36,16.69
+ORD1011,2025-01-15,East,Books,Small Business,Debit Card,5,42.81,0.1,214.04,33.81
+ORD1012,2025-01-17,South,Home & Kitchen,Small Business,UPI,2,158.84,0.1,317.69,18.47
+ORD1013,2025-01-18,East,Sports,Corporate,Credit Card,6,97.47,0.0,584.81,137.49
+ORD1014,2025-01-20,South,Clothing,Consumer,Credit Card,2,87.16,0.15,174.32,20.6
+ORD1015,2025-01-21,South,Books,Corporate,Credit Card,2,35.22,0.1,70.43,10.56
+ORD1016,2025-01-22,North,Clothing,Consumer,Credit Card,6,83.64,0.0,501.85,84.39
+ORD1017,2025-01-24,East,Books,Small Business,Cash on Delivery,3,42.83,0.15,128.48,13.83
+ORD1018,2025-01-25,East,Sports,,Credit Card,5,97.37,0.2,486.87,59.36
+ORD1019,2025-01-27,Central,Electronics,Consumer,Credit Card,1,554.64,0.0,554.64,61.59
+ORD1020,2025-01-28,Central,Books,Corporate,Credit Card,4,42.26,0.05,169.04,16.72
+ORD1021,2025-01-30,North,Clothing,Corporate,Credit Card,1,71.05,0.15,71.05,14.2
+ORD1022,2025-01-31,North,Sports,Corporate,UPI,4,83.12,0.1,332.49,77.88
+ORD1023,2025-02-02,West,Books,Corporate,Credit Card,1,29.59,0.0,29.59,4.58
+ORD1024,2025-02-03,Central,Electronics,Small Business,UPI,6,363.69,0.05,2182.14,254.54
+ORD1025,2025-02-05,South,Electronics,Small Business,Cash on Delivery,5,379.12,0.05,1895.62,362.63
+ORD1026,2025-02-06,East,Home & Kitchen,Small Business,Debit Card,4,166.1,0.1,664.41,84.21
+ORD1027,2025-02-08,North,Home & Kitchen,Small Business,Credit Card,7,124.81,0.1,873.64,43.75
+ORD1028,2025-02-09,East,Clothing,Small Business,Debit Card,3,75.48,0.05,226.45,21.23
+ORD1029,2025-02-10,East,Books,Corporate,Debit Card,1,41.31,0.1,41.31,7.77
+ORD1030,2025-02-12,West,Books,Corporate,Cash on Delivery,1,28.37,0.1,28.37,5.01
+ORD1031,2025-02-13,Central,Home & Kitchen,Corporate,Debit Card,4,174.98,0.0,699.91,59.79
+ORD1032,2025-02-15,North,Books,Corporate,UPI,3,32.44,0.05,97.32,10.4
+ORD1033,2025-02-16,East,Books,Small Business,Debit Card,3,29.86,0.1,89.58,8.17
+ORD1034,2025-02-18,North,Electronics,Small Business,Debit Card,6,501.09,0.15,3006.54,486.69
+ORD1035,2025-02-19,South,Home & Kitchen,Small Business,Debit Card,7,162.45,0.1,1137.18,55.66
+ORD1036,2025-02-21,West,Sports,Consumer,Credit Card,6,119.49,0.1,716.92,47.19
+ORD1037,2025-02-22,South,Home & Kitchen,Corporate,Credit Card,6,169.62,0.0,1017.7,244.23
+ORD1038,2025-02-24,North,Sports,Corporate,UPI,6,116.16,0.05,696.94,68.45
+ORD1039,2025-02-25,North,Electronics,Small Business,UPI,6,417.11,0.1,2502.67,439.34
+ORD1040,2025-02-27,Central,Clothing,Corporate,Credit Card,6,70.39,0.05,422.33,46.51
+ORD1041,2025-02-28,East,Books,Corporate,UPI,5,39.82,0.05,199.11,16.4
+ORD1042,2025-03-01,East,Electronics,Small Business,Credit Card,3,523.38,0.05,1570.15,174.5
+ORD1043,2025-03-03,South,Books,Consumer,Cash on Delivery,6,43.6,0.0,261.6,58.72
+ORD1044,2025-03-04,West,Clothing,Consumer,Debit Card,3,78.85,0.05,236.56,55.27
+ORD1045,2025-03-06,East,Clothing,Consumer,Debit Card,3,77.39,0.05,232.18,53.06
+ORD1046,2025-03-07,Central,Electronics,Small Business,UPI,2,517.22,0.05,1034.45,146.83
+ORD1047,2025-03-09,South,Clothing,Corporate,Credit Card,5,76.27,0.0,381.34,81.46
+ORD1048,2025-03-10,South,Sports,Small Business,Credit Card,6,121.88,0.15,731.3,50.09
+ORD1049,2025-03-12,Central,Clothing,Small Business,UPI,1,94.9,0.1,94.9,9.83
+ORD1050,2025-03-13,West,Books,Corporate,Credit Card,4,34.76,0.1,139.03,31.18
+ORD1051,2025-03-15,Central,Books,Consumer,Cash on Delivery,7,39.83,0.15,278.78,8.39
+ORD1052,2025-03-16,West,Books,Consumer,Debit Card,1,39.88,0.1,39.88,2.48
+ORD1053,2025-03-18,Central,Books,Small Business,UPI,5,29.62,0.0,148.12,18.01
+ORD1054,2025-03-19,Central,Sports,Consumer,UPI,4,120.61,0.1,482.46,24.27
+ORD1055,2025-03-20,North,Home & Kitchen,Small Business,Credit Card,5,154.1,0.1,770.52,62.63
+ORD1056,2025-03-22,South,Electronics,Small Business,UPI,3,527.36,0.1,1582.07,255.68
+ORD1057,2025-03-23,Central,Books,Corporate,Cash on Delivery,4,33.04,0.05,132.16,19.4
+ORD1058,2025-03-25,Central,Clothing,Corporate,Credit Card,3,96.24,0.0,288.72,74.64
+ORD1059,2025-03-26,East,Books,Corporate,Credit Card,1,34.13,0.05,34.13,7.71
+ORD1060,2025-03-28,South,Clothing,Small Business,Credit Card,1,64.39,0.05,64.39,8.43
+ORD1061,2025-03-29,East,Clothing,Corporate,Credit Card,4,96.59,0.1,386.38,37.43
+ORD1062,2025-03-31,South,Books,Consumer,Cash on Delivery,4,29.44,0.1,117.75,14.24
+ORD1063,2025-04-01,East,Sports,Consumer,Credit Card,6,94.37,0.05,566.21,102.24
+ORD1064,2025-04-03,Central,Clothing,Small Business,UPI,5,98.2,0.2,491.01,31.23
+ORD1065,2025-04-04,Central,Clothing,Small Business,Cash on Delivery,6,98.22,0.1,589.33,100.09
+ORD1066,2025-04-06,North,Books,Corporate,Debit Card,5,37.03,0.05,185.16,26.73
+ORD1067,2025-04-07,East,Clothing,Small Business,Debit Card,6,86.75,0.0,520.48,99.1
+ORD1068,2025-04-08,West,Clothing,Small Business,UPI,3,80.14,0.0,240.43,40.21
+ORD1069,2025-04-10,North,Books,Consumer,UPI,4,32.62,0.05,130.47,15.84
+ORD1070,2025-04-11,East,Books,Consumer,Cash on Delivery,1,33.18,0.0,33.18,8.95
+ORD1071,2025-04-13,East,Electronics,Corporate,Debit Card,5,496.18,0.0,2480.92,577.36
+ORD1072,2025-04-14,North,Sports,Small Business,Debit Card,5,113.86,0.05,569.28,51.53
+ORD1073,2025-04-16,Central,Sports,Small Business,Debit Card,1,115.62,0.0,115.62,29.33
+ORD1074,2025-04-17,East,Clothing,Consumer,Debit Card,6,92.43,0.15,554.56,69.31
+ORD1075,2025-04-19,Central,Sports,Small Business,Debit Card,5,84.1,0.0,420.52,108.88
+ORD1076,2025-04-20,North,Clothing,Consumer,Credit Card,7,81.8,0.1,572.59,117.37
+ORD1077,2025-04-22,Central,Electronics,Corporate,UPI,3,371.66,0.05,1114.97,164.51
+ORD1078,2025-04-23,South,Books,Consumer,Credit Card,4,36.66,0.2,146.62,2.13
+ORD1079,2025-04-25,West,Books,Small Business,Debit Card,1,34.95,0.0,34.95,4.67
+ORD1080,2025-04-26,East,Books,Corporate,Cash on Delivery,4,41.98,0.05,167.93,28.69
+ORD1081,2025-04-27,West,Sports,Consumer,Cash on Delivery,7,95.79,0.2,670.54,91.66
+ORD1082,2025-04-29,Central,Electronics,Consumer,Debit Card,5,383.71,0.15,1918.53,151.71
+ORD1083,2025-04-30,East,Sports,Corporate,Debit Card,5,86.43,0.15,432.17,23.93
+ORD1084,2025-05-02,Central,Sports,Corporate,Cash on Delivery,7,114.27,0.05,799.88,183.56
+ORD1085,2025-05-03,South,Electronics,Consumer,Credit Card,1,485.19,0.0,485.19,134.34
+ORD1086,2025-05-05,North,Electronics,Small Business,Credit Card,3,380.48,0.1,1141.43,171.37
+ORD1087,2025-05-06,East,Electronics,,Debit Card,2,377.03,0.2,754.06,33.43
+ORD1088,2025-05-08,South,Electronics,Corporate,Credit Card,1,501.95,0.1,501.95,49.92
+ORD1089,2025-05-09,South,Books,Consumer,Cash on Delivery,2,29.15,0.1,58.29,2.84
+ORD1090,2025-05-11,East,Home & Kitchen,Corporate,Credit Card,7,175.48,0.05,1228.33,301.38
+ORD1091,2025-05-12,Central,Home & Kitchen,Corporate,Debit Card,6,167.67,0.15,1006.03,51.36
+ORD1092,2025-05-14,South,Electronics,Small Business,Cash on Delivery,2,376.47,0.0,752.95,147.05
+ORD1093,2025-05-15,West,Home & Kitchen,Corporate,Credit Card,3,125.73,0.05,377.18,44.25
+ORD1094,2025-05-16,South,Home & Kitchen,Corporate,UPI,6,186.6,0.05,1119.59,194.06
+ORD1095,2025-05-18,Central,Electronics,Small Business,Cash on Delivery,2,435.79,0.1,871.58,152.77
+ORD1096,2025-05-19,Central,Home & Kitchen,Corporate,Cash on Delivery,7,145.02,0.05,1015.13,231.9
+ORD1097,2025-05-21,West,Sports,Small Business,UPI,6,116.58,0.0,699.46,84.83
+ORD1098,2025-05-22,South,Clothing,Small Business,UPI,7,98.1,0.1,686.71,32.41
+ORD1099,2025-05-24,Central,Clothing,Corporate,Cash on Delivery,2,99.5,0.05,198.99,17.88
+ORD1100,2025-05-25,East,Electronics,Corporate,UPI,7,512.56,0.1,3587.91,807.29
+ORD1101,2025-05-27,North,Books,Consumer,Debit Card,3,33.93,0.0,101.78,25.93
+ORD1102,2025-05-28,North,Electronics,Small Business,Debit Card,2,376.91,0.1,753.82,123.99
+ORD1103,2025-05-30,North,Books,Consumer,Debit Card,2,40.24,0.1,80.48,13.29
+ORD1104,2025-05-31,South,Clothing,Corporate,Cash on Delivery,2,84.1,0.0,168.21,35.83
+ORD1105,2025-06-02,West,Electronics,Consumer,UPI,1,445.9,0.05,445.9,43.51
+ORD1106,2025-06-03,Central,Sports,Small Business,UPI,1,120.79,0.0,120.79,31.75
+ORD1107,2025-06-04,East,Home & Kitchen,Consumer,Credit Card,1,127.51,0.0,127.51,20.88
+ORD1108,2025-06-06,East,Books,Small Business,Credit Card,3,35.76,0.2,107.28,9.29
+ORD1109,2025-06-07,South,Home & Kitchen,Corporate,UPI,6,120.77,0.05,724.6,120.49
+ORD1110,2025-06-09,North,Home & Kitchen,Corporate,UPI,7,151.63,0.15,1061.44,39.16
+ORD1111,2025-06-10,South,Electronics,Small Business,UPI,5,371.4,0.05,1857.01,177.82
+ORD1112,2025-06-12,West,Home & Kitchen,Corporate,Cash on Delivery,2,128.02,0.1,256.04,49.32
+ORD1113,2025-06-13,West,Sports,Corporate,UPI,7,85.29,0.15,597.02,26.3
+ORD1114,2025-06-15,Central,Home & Kitchen,Corporate,Credit Card,2,163.82,0.1,327.64,54.27
+ORD1115,2025-06-16,Central,Electronics,Corporate,Cash on Delivery,3,511.07,0.1,1533.22,144.23
+ORD1116,2025-06-18,West,Sports,Small Business,UPI,2,106.25,0.05,212.5,29.83
+ORD1117,2025-06-19,West,Clothing,Consumer,Credit Card,1,98.64,0.05,98.64,11.86
+ORD1118,2025-06-21,West,Home & Kitchen,Consumer,Cash on Delivery,5,145.3,0.2,726.52,58.95
+ORD1119,2025-06-22,South,Electronics,Corporate,UPI,4,417.86,0.15,1671.43,286.33
+ORD1120,2025-06-23,West,Clothing,Consumer,UPI,2,95.27,0.2,190.54,13.23
+ORD1121,2025-06-25,East,Clothing,Consumer,UPI,7,72.05,0.0,504.35,97.48
+ORD1122,2025-06-26,North,Books,Corporate,Cash on Delivery,1,43.17,0.1,43.17,6.05
+ORD1123,2025-06-28,West,Sports,Corporate,Credit Card,4,80.55,0.2,322.19,45.99
+ORD1124,2025-06-29,North,Home & Kitchen,Consumer,Credit Card,5,185.47,0.0,927.33,247.94
+ORD1125,2025-07-01,South,Electronics,Small Business,Debit Card,4,368.74,0.0,1474.96,334.1
+ORD1126,2025-07-02,North,Books,Corporate,UPI,1,42.04,0.1,42.04,3.7
+ORD1127,2025-07-04,South,Sports,Small Business,Debit Card,6,103.75,0.1,622.48,31.89
+ORD1128,2025-07-05,East,Books,Consumer,Debit Card,6,43.64,0.15,261.84,20.93
+ORD1129,2025-07-07,South,Sports,Corporate,Credit Card,4,83.32,0.0,333.28,66.33
+ORD1130,2025-07-08,South,Sports,Small Business,Cash on Delivery,3,104.92,0.15,314.77,11.89
+ORD1131,2025-07-10,Central,Home & Kitchen,Corporate,Cash on Delivery,7,185.43,0.05,1298.0,209.98
+ORD1132,2025-07-11,West,Sports,Consumer,Credit Card,7,103.54,0.0,724.78,144.5
+ORD1133,2025-07-12,West,Books,Small Business,Cash on Delivery,4,37.91,0.0,151.65,22.27
+ORD1134,2025-07-14,East,Sports,Consumer,Debit Card,2,111.31,0.15,222.62,40.45
+ORD1135,2025-07-15,East,Home & Kitchen,Consumer,UPI,2,150.68,0.1,301.36,19.99
+ORD1136,2025-07-17,West,Home & Kitchen,Corporate,Credit Card,7,162.36,0.1,1136.52,68.22
+ORD1137,2025-07-18,Central,Books,Small Business,UPI,7,37.2,0.05,260.42,54.2
+ORD1138,2025-07-20,West,Clothing,Consumer,Cash on Delivery,6,96.44,0.15,578.65,73.26
+ORD1139,2025-07-21,Central,Clothing,Consumer,UPI,3,65.64,0.05,196.91,39.42
+ORD1140,2025-07-23,East,Sports,Small Business,Cash on Delivery,1,92.64,0.15,92.64,10.6
+ORD1141,2025-07-24,North,Electronics,Consumer,Cash on Delivery,2,552.46,0.05,1104.92,123.51
+ORD1142,2025-07-26,East,Sports,Consumer,Debit Card,7,120.06,0.05,840.43,190.21
+ORD1143,2025-07-27,East,Books,Small Business,Cash on Delivery,6,35.18,0.1,211.06,43.24
+ORD1144,2025-07-29,South,Books,Small Business,Debit Card,5,37.77,0.05,188.84,38.04
+ORD1145,2025-07-30,South,Books,Small Business,Debit Card,6,32.37,0.1,194.21,19.31
+ORD1146,2025-07-31,South,Books,Small Business,Debit Card,2,30.96,0.1,61.93,10.1
+ORD1147,2025-08-02,South,Books,Corporate,Credit Card,2,35.3,0.05,70.61,9.51
+ORD1148,2025-08-03,Central,Home & Kitchen,Small Business,Credit Card,6,143.85,0.15,863.11,39.54
+ORD1149,2025-08-05,West,Clothing,Corporate,Cash on Delivery,1,85.01,0.05,85.01,20.91
+ORD1150,2025-08-06,North,Books,Corporate,Debit Card,4,29.22,0.1,116.9,8.46
+ORD1151,2025-08-08,East,Electronics,Corporate,Credit Card,2,557.31,0.2,1114.63,222.98
+ORD1152,2025-08-09,Central,Electronics,Consumer,Debit Card,6,559.71,0.1,3358.25,450.68
+ORD1153,2025-08-11,North,Electronics,Corporate,UPI,7,501.38,0.0,3509.64,410.72
+ORD1154,2025-08-12,Central,Electronics,Corporate,UPI,6,468.56,0.2,2811.36,332.81
+ORD1155,2025-08-14,Central,Home & Kitchen,Consumer,UPI,3,140.89,0.1,422.68,92.82
+ORD1156,2025-08-15,East,Electronics,Consumer,Cash on Delivery,4,524.79,0.05,2099.17,438.61
+ORD1157,2025-08-17,West,Books,Consumer,Debit Card,5,38.78,0.0,193.92,46.8
+ORD1158,2025-08-18,South,Sports,Small Business,UPI,1,87.32,0.15,87.32,13.91
+ORD1159,2025-08-19,West,Electronics,Consumer,Credit Card,5,544.46,0.1,2722.31,499.42
+ORD1160,2025-08-21,East,Home & Kitchen,Consumer,UPI,4,175.52,0.1,702.09,150.84
+ORD1161,2025-08-22,East,Home & Kitchen,Corporate,UPI,4,184.11,0.15,736.45,57.03
+ORD1162,2025-08-24,East,Electronics,Consumer,UPI,4,506.96,0.15,2027.83,254.26
+ORD1163,2025-08-25,North,Sports,Small Business,Cash on Delivery,5,107.6,0.0,538.02,66.84
+ORD1164,2025-08-27,West,Electronics,Consumer,Credit Card,7,444.69,0.05,3112.86,809.45
+ORD1165,2025-08-28,West,Home & Kitchen,Small Business,Debit Card,4,182.96,0.05,731.84,183.92
+ORD1166,2025-08-30,Central,Clothing,Consumer,Credit Card,6,95.18,0.1,571.07,30.2
+ORD1167,2025-08-31,Central,Books,Consumer,Debit Card,5,28.71,0.0,143.56,31.74
+ORD1168,2025-09-02,Central,Home & Kitchen,Consumer,Cash on Delivery,4,121.78,0.1,487.12,112.06
+ORD1169,2025-09-03,East,Electronics,Consumer,Cash on Delivery,6,436.23,0.15,2617.4,166.51
+ORD1170,2025-09-05,West,Books,Small Business,Cash on Delivery,7,40.77,0.15,285.36,40.26
+ORD1171,2025-09-06,East,Electronics,Small Business,Cash on Delivery,3,559.92,0.05,1679.77,412.55
+ORD1172,2025-09-07,North,Electronics,Corporate,Debit Card,7,390.46,0.15,2733.22,93.72
+ORD1173,2025-09-09,Central,Clothing,Small Business,UPI,4,85.39,0.0,341.55,74.97
+ORD1174,2025-09-10,East,Books,Consumer,Debit Card,5,34.0,0.15,170.0,14.78
+ORD1175,2025-09-12,East,Books,,Credit Card,2,43.28,0.0,86.55,22.93
+ORD1176,2025-09-13,North,Clothing,Corporate,Cash on Delivery,4,94.32,0.05,377.27,96.85
+ORD1177,2025-09-15,South,Home & Kitchen,Corporate,Cash on Delivery,2,176.59,0.15,353.17,76.41
+ORD1178,2025-09-16,West,Electronics,Consumer,Credit Card,6,454.91,0.0,2729.46,477.23
+ORD1179,2025-09-18,South,Sports,Small Business,Debit Card,3,98.67,0.05,296.0,69.53
+ORD1180,2025-09-19,Central,Electronics,Consumer,UPI,1,415.36,0.1,415.36,88.85
+ORD1181,2025-09-21,East,Electronics,Corporate,UPI,7,371.42,0.1,2599.91,282.92
+ORD1182,2025-09-22,North,Home & Kitchen,Consumer,Credit Card,3,178.37,0.1,535.11,112.79
+ORD1183,2025-09-24,North,Electronics,Consumer,UPI,4,524.61,0.1,2098.45,109.96
+ORD1184,2025-09-25,West,Clothing,Small Business,Debit Card,2,99.99,0.1,199.98,32.85
+ORD1185,2025-09-26,South,Clothing,Small Business,Debit Card,7,99.88,0.05,699.15,75.86
+ORD1186,2025-09-28,West,Books,Corporate,Credit Card,2,36.75,0.05,73.5,6.37
+ORD1187,2025-09-29,East,Sports,Consumer,Debit Card,5,114.6,0.0,573.02,54.66
+ORD1188,2025-10-01,West,Electronics,Consumer,Cash on Delivery,2,551.32,0.2,1102.63,164.58
+ORD1189,2025-10-02,North,Electronics,Small Business,Credit Card,5,532.05,0.1,2660.27,300.54
+ORD1190,2025-10-04,North,Home & Kitchen,Consumer,Debit Card,6,136.7,0.05,820.18,170.15
+ORD1191,2025-10-05,Central,Clothing,Consumer,Credit Card,7,80.22,0.1,561.54,32.61
+ORD1192,2025-10-07,Central,Sports,Consumer,UPI,7,85.81,0.2,600.69,43.88
+ORD1193,2025-10-08,East,Books,Small Business,Debit Card,1,43.03,0.0,43.03,8.08
+ORD1194,2025-10-10,South,Clothing,Corporate,Cash on Delivery,4,85.82,0.1,343.29,69.74
+ORD1195,2025-10-11,West,Books,Corporate,Debit Card,5,31.6,0.1,158.01,17.18
+ORD1196,2025-10-13,East,Home & Kitchen,Consumer,Credit Card,1,165.34,0.1,165.34,28.14
+ORD1197,2025-10-14,Central,Home & Kitchen,Corporate,Credit Card,2,161.72,0.0,323.45,83.19
+ORD1198,2025-10-15,West,Electronics,Small Business,Debit Card,2,432.53,0.15,865.06,130.34
+ORD1199,2025-10-17,Central,Sports,Small Business,Cash on Delivery,1,85.11,0.2,85.11,4.82
+ORD1200,2025-10-18,West,Books,Corporate,Cash on Delivery,7,38.58,0.1,270.04,13.47
+ORD1201,2025-10-20,South,Clothing,Corporate,Cash on Delivery,2,82.73,0.1,165.46,36.24
+ORD1202,2025-10-21,East,Home & Kitchen,Consumer,Credit Card,6,172.13,0.2,1032.79,14.72
+ORD1203,2025-10-23,West,Electronics,Corporate,Debit Card,6,465.33,0.1,2792.0,614.07
+ORD1204,2025-10-24,North,Electronics,Consumer,UPI,1,532.57,0.0,532.57,98.94
+ORD1205,2025-10-26,North,Books,Consumer,Credit Card,5,36.69,0.1,183.46,42.71
+ORD1206,2025-10-27,West,Home & Kitchen,Small Business,Cash on Delivery,5,157.86,0.1,789.32,161.62
+ORD1207,2025-10-29,West,Sports,Small Business,Debit Card,1,119.45,0.05,119.45,31.31
+ORD1208,2025-10-30,West,Home & Kitchen,Small Business,Cash on Delivery,5,147.24,0.1,736.18,84.76
+ORD1209,2025-11-01,North,Books,Small Business,UPI,7,30.11,0.2,210.78,34.45
+ORD1210,2025-11-02,North,Books,Corporate,Cash on Delivery,7,28.45,0.2,199.17,18.0
+ORD1211,2025-11-03,West,Home & Kitchen,Small Business,Cash on Delivery,5,170.97,0.1,854.86,120.51
+ORD1212,2025-11-05,Central,Books,Corporate,UPI,6,37.77,0.0,226.62,46.57
+ORD1213,2025-11-06,Central,Home & Kitchen,Small Business,Debit Card,5,167.53,0.2,837.63,154.74
+ORD1214,2025-11-08,South,Clothing,Corporate,Credit Card,7,71.67,0.15,501.67,112.53
+ORD1215,2025-11-09,East,Home & Kitchen,Consumer,Debit Card,3,129.21,0.0,387.62,90.57
+ORD1216,2025-11-11,Central,Home & Kitchen,Corporate,UPI,4,120.98,0.2,483.93,45.27
+ORD1217,2025-11-12,North,Books,Corporate,Cash on Delivery,2,33.52,0.15,67.04,7.49
+ORD1218,2025-11-14,Central,Books,Small Business,Debit Card,3,37.29,0.1,111.87,21.54
+ORD1219,2025-11-15,South,Electronics,Corporate,Credit Card,5,439.43,0.1,2197.15,203.8
+ORD1220,2025-11-17,South,Electronics,Consumer,UPI,6,448.59,0.05,2691.53,227.69
+ORD1221,2025-11-18,East,Clothing,Consumer,Debit Card,1,96.55,0.0,96.55,14.57
+ORD1222,2025-11-20,Central,Electronics,Small Business,Credit Card,5,430.52,0.05,2152.61,258.2
+ORD1223,2025-11-21,North,Home & Kitchen,Consumer,UPI,6,154.69,0.15,928.17,80.53
+ORD1224,2025-11-22,North,Books,Corporate,Credit Card,4,40.34,0.0,161.37,20.45
+ORD1225,2025-11-24,West,Electronics,Consumer,UPI,5,440.3,0.05,2201.5,156.13
+ORD1226,2025-11-25,North,Electronics,Small Business,Cash on Delivery,7,485.97,0.05,3401.81,224.77
+ORD1227,2025-11-27,East,Clothing,Corporate,Debit Card,1,95.05,0.1,95.05,23.05
+ORD1228,2025-11-28,East,Clothing,Small Business,Credit Card,6,98.18,0.2,589.1,56.29
+ORD1229,2025-11-30,North,Home & Kitchen,Corporate,UPI,6,129.93,0.05,779.56,108.64
+ORD1230,2025-12-01,North,Books,Consumer,Credit Card,6,42.59,0.05,255.56,50.71
+ORD1231,2025-12-03,West,Clothing,Small Business,Credit Card,4,81.72,0.1,326.86,28.98
+ORD1232,2025-12-04,North,Electronics,Small Business,Debit Card,5,412.29,0.1,2061.47,484.43
+ORD1233,2025-12-06,West,Books,Corporate,Cash on Delivery,4,35.23,0.05,140.93,30.97
+ORD1234,2025-12-07,West,Books,Small Business,Credit Card,2,43.44,0.1,86.87,5.46
+ORD1235,2025-12-09,North,Electronics,Corporate,UPI,2,459.76,0.0,919.51,150.35
+ORD1236,2025-12-10,South,Clothing,Corporate,UPI,5,75.84,0.0,379.18,97.0
+ORD1237,2025-12-11,South,Electronics,Corporate,Cash on Delivery,7,488.26,0.1,3417.85,799.59
+ORD1238,2025-12-13,West,Books,Corporate,UPI,4,31.78,0.05,127.13,19.83
+ORD1239,2025-12-14,North,Sports,Consumer,Cash on Delivery,1,83.41,0.2,83.41,11.07
+ORD1240,2025-12-16,South,Sports,Corporate,UPI,6,85.8,0.05,514.8,49.37
+ORD1241,2025-12-17,North,Home & Kitchen,Small Business,Debit Card,6,128.64,0.1,771.86,187.74
+ORD1242,2025-12-19,North,Electronics,Consumer,Credit Card,5,390.76,0.1,1953.8,178.45
+ORD1243,2025-12-20,North,Electronics,Small Business,Debit Card,7,388.11,0.0,2716.79,729.58
+ORD1244,2025-12-22,Central,Home & Kitchen,Consumer,Credit Card,2,163.26,0.1,326.52,57.12
+ORD1245,2025-12-23,North,Home & Kitchen,Corporate,Credit Card,2,132.28,0.0,264.55,53.32
+ORD1246,2025-12-25,Central,Home & Kitchen,Consumer,Credit Card,6,143.33,0.2,860.0,96.78
+ORD1247,2025-12-26,West,Books,Consumer,Debit Card,5,42.12,0.0,210.62,26.57
+ORD1248,2025-12-28,South,Electronics,Small Business,Credit Card,4,455.98,0.05,1823.91,178.39
+ORD1249,2025-12-29,South,Books,Small Business,Debit Card,2,38.51,0.0,77.03,9.56
+ORD1250,2025-12-31,South,Home & Kitchen,Corporate,Cash on Delivery,4,131.63,0.2,526.53,24.9
+ORD1026,2025-02-06,East,Home & Kitchen,Small Business,Debit Card,4,166.1,0.1,664.41,84.21
+ORD1121,2025-06-25,East,Clothing,Consumer,UPI,7,72.05,0.0,504.35,97.48
